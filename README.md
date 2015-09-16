@@ -10,4 +10,4 @@ Projects
 * [Advanced (CSS3, jQuery Slideshow & Web Fonts)](http://introtowww.github.com/advanced "Advanced")
 * [Scroll Events](http://introtowww.github.com/scrollit "Scroll Events")
 * [Lightbox](http://introtowww.github.com/lightbox "Lightbox")
-* [Assignment #2 - Portfolio Website](http://introtowww.github.com/assignment2 "Assignment #2")
+* [Assignment #2 - Portfolio Website](http://introtowww.github.com/assignment2 "Assignment 2")
