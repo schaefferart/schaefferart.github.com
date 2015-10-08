@@ -4,7 +4,7 @@ Design or the Web | Fall 2015
 
 Projects
 * [Phillies vs Red Sox](http://introtowww.github.com/phillies "Phillies vs Red Sox")
-* [Resume](http://introtowww.github.com/resume "Resume")
+* [Resume](http://schaefferart.github.com/resume "Resume")
 * [Assignment #1](http://introtowww.github.com/assignment1 "Assignment 1")
 * [Header & Grid](http://introtowww.github.com/header-grid "Header & Grid")
 * [Advanced (CSS3, jQuery Slideshow & Web Fonts)](http://introtowww.github.com/advanced "Advanced")
