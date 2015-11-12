@@ -1,0 +1,62 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+* body{
+  background: #FFFFFF;
+  color: #000000; 
+  font-family: 'Helvetica', Arial, sans-serif;
+  font-weight: normal;
+  text-align: left;
+}
+
+body,
+html {
+	height:100%;
+}
+
+.menu {font-family: Georgia Italic;
+	   padding-left: 400px; 
+	   color:#9d8235;
+	   font-style: italic;
+	   font-size: 20pt;
+}
+
+.coffeemenu {border-right: 1px solid #f0f0f0;
+			  float: left;
+			  margin-left: 10px;
+			  width: 700px
+}
+
+.secondlogobox {margin-top: 50px;
+				border-top: 2px solid #9d8235;
+				background-color: #f0f0f0;
+				text-align: center;
+}
+
+.menuprices	{font-family: Georgia Italic;
+			 font-style: italic;
+			 font-size: 16pt;
+			 padding-left: 335px;
+}
+
+.header {margin-bottom: 15px;
+		 padding-top: 20px;
+		 border-top: 5px solid #9d8235;
+		 width: 100%;
+		 text-align: center;
+}		 
+
+.navigation {
+	margin: 5px auto;
+	border-top: 1px solid rgba(157,130,53,.25);
+	width: 45%;
+}
+
+.logosection {
+	margin: 5px auto;
+	padding: 20px;
+}
