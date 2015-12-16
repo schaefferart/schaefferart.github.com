@@ -1,6 +1,6 @@
 # schaefferart.github.io
 
-Design or the Web | Fall 2015
+Design for the Web | Fall 2015
 
 Projects
 * [Phillies vs Red Sox](http://schaefferart.github.io/phillies "Phillies vs Red Sox")

@@ -4,7 +4,6 @@
 	padding: 0;
 }
 
-
 * body{
   background: #FFFFFF;
   color: #000000; 
@@ -18,29 +17,56 @@ html {
 	height:100%;
 }
 
-.menu {font-family: Georgia Italic;
-	   padding-left: 400px; 
+table  {font-family: Arial; 
+	   font-size: 16pt; 
+		padding-top: 20px;
+		padding-left: 350px;
+		margin-bottom: 10px;
+	}
+
+td	{padding-left: 98px; 
+}
+
+.pricefont {
+	font-family: Georgia italic;
+	font-style: italic;
+}
+
+.menufont {font-family: Helvetica;
+
+}
+
+.bolditems {font-weight: bold;
+
+}
+
+.menu {font-family: Georgia italic;
+	   padding-left: 350px; 
 	   color:#9d8235;
 	   font-style: italic;
 	   font-size: 20pt;
+	   padding-top: 45px;
 }
 
-.coffeemenu {border-right: 1px solid #f0f0f0;
-			  float: left;
+.coffeemenu { float: left;
 			  margin-left: 10px;
-			  width: 700px
+			  width: 700px;
+			  padding-top:;
 }
 
-.secondlogobox {margin-top: 50px;
+.sanwhichmenu {
+			  float: right;
+			  margin-left: 10px;
+			  width: 700px;
+			margin-bottom: 100px;
+
+}
+
+.secondlogobox {margin-top: 200px;
 				border-top: 2px solid #9d8235;
 				background-color: #f0f0f0;
 				text-align: center;
-}
 
-.menuprices	{font-family: Georgia Italic;
-			 font-style: italic;
-			 font-size: 16pt;
-			 padding-left: 335px;
 }
 
 .header {margin-bottom: 15px;
@@ -51,12 +77,24 @@ html {
 }		 
 
 .navigation {
-	margin: 5px auto;
+	margin: 10px auto;
 	border-top: 1px solid rgba(157,130,53,.25);
 	width: 45%;
-}
+	padding-top: px;
+	padding-right: 650px;
+	padding-left: 500px;
+	padding-bottom: 10px;
+	font-family: Georgia;
+	font-size: 12pt;
+} 
 
 .logosection {
 	margin: 5px auto;
 	padding: 20px;
 }
+
+
+
+
+
+
